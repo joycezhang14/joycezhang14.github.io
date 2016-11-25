@@ -1,0 +1,11 @@
+color scheme:
+yellow - #ffcc00
+blue - #00264d
+black - #000000
+grey - #404040
+
+skills
+work
+projects
+education
+contact
